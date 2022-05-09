@@ -1,0 +1,14 @@
+name: "greenberg_website"
+title: "My Website"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Past Work"
+      href: about.html
+    - text: "Data Story"
+      href: story.html
+output: distill::distill_article

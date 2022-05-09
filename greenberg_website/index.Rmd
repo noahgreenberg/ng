@@ -1,0 +1,23 @@
+---
+title: "Noah Greenberg"
+description: |
+  Bucknell class of 2022.
+image: "Noah_Greenberg_Picture_copy.jpg"
+color1: "#74A089"
+color2: "#FDDDA0"
+angle: 10
+
+output: postcards::onofre
+site: distill::distill_website
+
+---
+Noah is a senior at Bucknell University where he studies physics. This project shows some of the work in his data visualizations course as well as an exploratory data analysis project on a red wine data set imported from kaggle. 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+
+```
+
